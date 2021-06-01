@@ -14,8 +14,6 @@
 
 > ![image](https://yyshtest.oss-cn-huhehaote.aliyuncs.com/uploads/markdown/baiduphone2.gif)
 
-> ![image](https://yyshtest.oss-cn-huhehaote.aliyuncs.com/uploads/markdown/baiduphone3.gif)
-
 ## License
 
 This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
